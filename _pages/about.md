@@ -19,4 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Anh Nguyen, a second year PhD student in [Machine Learning Department](https://www.ml.cmu.edu/), at [School of Computer Science](https://www.cs.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/). I am fortunately advised by Prof. [Maria-Florina(Nina) Balcan](https://www.cs.cmu.edu/~ninamf/). Previously, I graduated from [Hanoi University of Science and Technology](https://hust.edu.vn/en/), majoring in Applied Mathematics. 
+Hello, I'm Anh Nguyen, a third-year PhD student in [Machine Learning Department](https://www.ml.cmu.edu/), at [School of Computer Science](https://www.cs.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/). I am fortunately advised by Prof. [Maria-Florina(Nina) Balcan](https://www.cs.cmu.edu/~ninamf/). Previously, I graduated from [Hanoi University of Science and Technology](https://hust.edu.vn/en/), majoring in Applied Mathematics. 
