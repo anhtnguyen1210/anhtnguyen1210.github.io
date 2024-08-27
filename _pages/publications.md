@@ -4,15 +4,8 @@ permalink: /publications/
 title: publications
 description:
 nav: true
-nav_order: 2
+nav_order: 1
 ---
-
-<div class="preprints">
-
-{% preprints -f {{ site.scholar.preprint }} %}
-
-</div>
-
 
 <div class="publications">
 
