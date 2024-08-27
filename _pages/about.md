@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Room 8019, Gates Hillman Center </p>
     <p>5000 Forbes Ave</p>
-    <p>Pittsburgh, Pennsylvania, 15232</p>
+    <p>Pittsburgh, Pennsylvania, 15213</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
