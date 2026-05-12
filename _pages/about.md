@@ -19,4 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Anh Nguyen, a fourth-year PhD student in [Machine Learning Department](https://www.ml.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/).
+Hi, I'm Anh Nguyen, a fourth-year PhD student in [Machine Learning Department](https://www.ml.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/), advised by [Zico Kolter](https://zicokolter.com/).
